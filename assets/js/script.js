@@ -110,7 +110,7 @@
         spaceBetween: 30,
         slidesPerView: 2,
         loop: !1,
-        rows:4,
+        rows:2,
         speed: 800,
         breakpoints: {
             600: {
