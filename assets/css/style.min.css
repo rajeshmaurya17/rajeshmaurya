@@ -4593,3 +4593,9 @@ html.dark .portfolio_wrapper .info span {
     transform: rotate(0deg);
   }
 }
+
+.read-details a
+{
+    width:100%;
+    margin:5px 0;
+}
