@@ -107,13 +107,13 @@
     /* Skills Slider start
     /* ============================================================ */
     var skillSlider = new Swiper('.skills-slider .swiper', {
-        spaceBetween: 20,
-        slidesPerView: 4,
+        spaceBetween: 30,
+        slidesPerView: 2,
         loop: !1,
         speed: 800,
         breakpoints: {
             600: {
-                slidesPerView: 2,
+                slidesPerView: 3,
             },
             800: {
                 slidesPerView: 4,
