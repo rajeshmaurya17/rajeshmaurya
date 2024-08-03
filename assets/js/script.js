@@ -108,7 +108,7 @@
     /* ============================================================ */
     var skillSlider = new Swiper('.skills-slider .swiper', {
         spaceBetween: 10,
-        slidesPerView: 4,
+        slidesPerView: 5,
         loop: !1,
         speed: 800,
         breakpoints: {
@@ -116,7 +116,7 @@
                 slidesPerView: 3,
             },
             800: {
-                slidesPerView: 6,
+                slidesPerView: 5,
             },
         },
         navigation: {
