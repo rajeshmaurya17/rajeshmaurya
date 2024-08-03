@@ -116,7 +116,7 @@
                 slidesPerView: 3,
             },
             800: {
-                slidesPerView: 8,
+                slidesPerView: 6,
             },
         },
         navigation: {
