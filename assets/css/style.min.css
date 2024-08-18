@@ -4598,4 +4598,5 @@ html.dark .portfolio_wrapper .info span {
 {
     width:100%;
     margin:5px 0;
+    justify-content: center;
 }
