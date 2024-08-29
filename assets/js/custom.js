@@ -9,6 +9,7 @@ if (pass == "mera@password") {
 
   document.getElementById('input').addEventListener('keyup', function(event) {
    if(document.getElementById('input').value == 3) {
-      window.open("aw3za.html")
+     const encodedURL = encodeURI(aw3za.html);
+      window.open(encodedURL)
     }
 })
