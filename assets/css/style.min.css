@@ -4600,3 +4600,6 @@ html.dark .portfolio_wrapper .info span {
     margin:5px 0;
     justify-content: center;
 }
+.level-number-wrapper {
+    text-align:center;
+}
